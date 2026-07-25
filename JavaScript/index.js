@@ -30,3 +30,8 @@ const verificarValor = () => {
         }
     }
 }
+
+const ordenarObjetos = () => {
+    objetos.sort();
+    console.log(objetos);
+}
